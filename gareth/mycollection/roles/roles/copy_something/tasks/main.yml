@@ -1,5 +1,0 @@
----
-- name: Copy a file
-  ansible.builtin.copy:
-    src: ~/Repos/ansible-local/source/test.txt
-    dest: ~/Repos/ansible-local/target/test.txt
